@@ -1,0 +1,17 @@
+.theme-switcher button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.light-mode button {
+  background-color: #f0f0f0;
+  color: #000000;
+}
+
+.dark-mode button {
+  background-color: #444444;
+  color: #ffffff;
+}
